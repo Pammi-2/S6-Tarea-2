@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#canvas {
+background-color: #A4800D;
+position: absolute;
+width: 100%;
+height:100%;
+}
